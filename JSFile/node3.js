@@ -9,8 +9,6 @@ function isPrime(num)
     return true;
 }
 
-
-
 console.time()
 let count = 0;
 
