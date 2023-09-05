@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc9b0e0-4102-40cc-9ab5-ef3efe3d760a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Express_Test/Routes/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/app1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/image/hello.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/nine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/public/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_Test/views/gugu.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express_test2/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSFile/big.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Express_Test/Routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSFile/node3.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSFile/node3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_1week/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +34,10 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692060844589</updated>
       <workItem from="1692143777636" duration="9194000" />
+      <workItem from="1693902978204" duration="326000" />
     </task>
     <servers />
   </component>
@@ -75,5 +70,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>
